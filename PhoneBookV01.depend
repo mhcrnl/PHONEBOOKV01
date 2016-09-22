@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474556365 source:/home/mhcrnl/Desktop/Year2016/October/github/PhoneBookV01/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"phonebook.h"
+
+1474558712 /home/mhcrnl/Desktop/Year2016/October/github/PhoneBookV01/phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474558712 source:/home/mhcrnl/Desktop/Year2016/October/github/PhoneBookV01/phonebook.c
+	"phonebook.h"
+
